@@ -26,7 +26,46 @@ const easy = document.querySelector('#easy');
 const medium = document.querySelector('#medium');
 const hard = document.querySelector('#hard');
 
-const words = ['developer', 'test', 'buddha', 'siblings'];
+const words = [
+  'developer',
+  'test',
+  'buddha',
+  'siblings',
+  'zen',
+  'setState',
+  'vanilla',
+  'javascript',
+  'react',
+  'node',
+  'express',
+  'vue',
+  'django',
+  'pizza',
+  'health',
+  'cheese',
+  'asdf',
+  'whoops',
+  'making',
+  'all',
+  'of',
+  'this',
+  'up',
+  'as',
+  'I',
+  'go',
+  'query',
+  'selector',
+  'cascading',
+  'hyper',
+  'relaxed',
+  'because',
+  'hypnagogic',
+  'philtrum',
+  'pogonotrophy',
+  'darkle',
+  'cancatervate',
+  'concatenate',
+];
 
 // Initialize Game
 function init() {
