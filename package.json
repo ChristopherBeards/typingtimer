@@ -1,0 +1,15 @@
+{
+  "name": "typingtimer",
+  "version": "1.0.0",
+  "description": "A Vanilla JavaScript typing game",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Christopher Beards",
+  "license": "MIT",
+  "homepage": "https://christopherbeards.github.io/typingtimer",
+  "dependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
